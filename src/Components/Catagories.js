@@ -3,7 +3,7 @@ function Catagories() {
         // <!-- catagories -->
         <div className="catagories">
             <p>Development</p>
-            <p>Business</p>
+            <p>Businesses</p>
             <p>IT & Software</p>
             <p>Personal Development</p>
             <p>Design</p>
